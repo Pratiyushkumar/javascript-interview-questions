@@ -188,7 +188,7 @@ z();
 ```
 
 - A: `7`
-- B: `Type Error`
+- B: `Type Error : z is not a function`
 - C: `10`
 - C: `Referrence Error`
 
